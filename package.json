@@ -1,0 +1,22 @@
+{
+  "name": "j-os.io",
+  "version": "0.0.1",
+  "description": "Node library for j-os.io project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/j-os-io/node-j-os.io.git"
+  },
+  "keywords": [
+    "j-os"
+  ],
+  "author": "j-os.io <support@j-os.io>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/j-os-io/node-j-os.io/issues"
+  },
+  "homepage": "https://github.com/j-os-io/node-j-os.io#readme"
+}

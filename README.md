@@ -1,4 +1,4 @@
-# node-j-os.io
+# node j-os.io
 ![](http://j-os.io/assets/images/logo.png)
 
 Repository for node library of j-os.io  
